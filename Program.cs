@@ -1,7 +1,12 @@
+using MVC2.Repositories;
+using MVC2.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+builder.Services.AddScoped<CourseService>();
 
 var app = builder.Build();
 

@@ -1,0 +1,8 @@
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.AssemblyInfoInputs.cache
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.AssemblyInfo.cs
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.csproj.CoreCompileInputs.cache
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.MvcApplicationPartsAssemblyInfo.cache
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.RazorAssemblyInfo.cache
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.RazorAssemblyInfo.cs
+D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.sourcelink.json

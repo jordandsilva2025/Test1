@@ -47,11 +47,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Jordan\\olddata\\MVC2\\MVC2\\MVC2.csproj",
+      "projectUniqueName": "C:\\Users\\edp009\\Documents\\My Web Sites\\MVC2\\MVC2\\MVC2.csproj",
       "projectName": "MVC2",
-      "projectPath": "D:\\Jordan\\olddata\\MVC2\\MVC2\\MVC2.csproj",
+      "projectPath": "C:\\Users\\edp009\\Documents\\My Web Sites\\MVC2\\MVC2\\MVC2.csproj",
       "packagesPath": "C:\\Users\\edp009\\.nuget\\packages\\",
-      "outputPath": "D:\\Jordan\\olddata\\MVC2\\MVC2\\obj\\",
+      "outputPath": "C:\\Users\\edp009\\Documents\\My Web Sites\\MVC2\\MVC2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
