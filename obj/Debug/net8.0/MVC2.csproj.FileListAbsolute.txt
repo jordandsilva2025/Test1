@@ -6,3 +6,45 @@ D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.MvcApplicationPartsAssemblyInf
 D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.RazorAssemblyInfo.cache
 D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.RazorAssemblyInfo.cs
 D:\Jordan\olddata\MVC2\MVC2\obj\Debug\net8.0\MVC2.sourcelink.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\appsettings.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.staticwebassets.runtime.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.staticwebassets.endpoints.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.exe
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.deps.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.runtimeconfig.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\MVC2.pdb
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.AssemblyInfoInputs.cache
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.AssemblyInfo.cs
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.csproj.CoreCompileInputs.cache
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.RazorAssemblyInfo.cache
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.RazorAssemblyInfo.cs
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.sourcelink.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\scopedcss\bundle\MVC2.styles.css
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\scopedcss\projectbundle\MVC2.bundle.scp.css
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets\msbuild.MVC2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets\msbuild.MVC2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC2.props
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC2.props
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC2.props
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\refint\MVC2.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.pdb
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.genruntimeconfig.cache
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\ref\MVC2.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\Moq.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\bin\Debug\net8.0\xunit.core.dll
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.csproj.AssemblyReference.cache
+C:\Users\edp009\Documents\My Web Sites\MVC2\MVC2\obj\Debug\net8.0\MVC2.csproj.Up2Date
